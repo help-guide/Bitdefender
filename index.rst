@@ -120,4 +120,5 @@ Final Thoughts
 ==============
 
 **Bitdefender Central** simplifies digital protection across all your devices. From setup to real-time security management, everything is just a few clicks away. Whether you’re tech-savvy or a beginner, this tool gives you full control, peace of mind, and effortless security.  
- Start now at: `https://central.bitdefender.com <https://central.bitdefender.com>`_
+
+Start now at: `https://central.bitdefender.com <https://central.bitdefender.com>`_
