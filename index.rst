@@ -10,8 +10,7 @@ Visit `https://central.bitdefender.com <https://central.bitdefender.com>`_ to ma
 
 .. image:: Button.png
    :alt: Bitdefender Central
-   :target: https://bitdefendercentralccount.wordpress.com/
- 
+   :target: https://pre.im/?GZGqGXnYcaJ5gkX41ZrNKgGAHfZKXm5nPGolGSelooxucXEEkoSfVu0nLyVAdjcK7z0ZvXgv0m
 
 .. raw:: html
 
